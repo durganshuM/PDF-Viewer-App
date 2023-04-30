@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyPDF</string>
+    <string name="select_pdf_btn">Select PDF</string>
+</resources>
